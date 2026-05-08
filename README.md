@@ -11,4 +11,4 @@ train-model.py - trains a model using MLP regressor for energy shaping gain k_E 
 
 evaluate_controller_performance.py - uses the model to predict controller gains in a closed-loop simulation of the inverted pendulum system using randomized system parameters and initial conditions. Includes quantitative and representative data comparing the ML-predicted controller to the discrete grid search controllers from the dataset.  
 
-Please see the following [https://drive.google.com/drive/folders/1KTLUxKmWK50N2itjYOGSJO-8P9EAw2wW?usp=drive_link](Google Drive folder) for the trained model (.joblib), the presentation slide deck, and an example video of the swing-up inverted pendulum system.
+Please see the following [Google Drive folder](https://drive.google.com/drive/folders/1KTLUxKmWK50N2itjYOGSJO-8P9EAw2wW?usp=drive_link) for the trained model (.joblib), the presentation slide deck, and an example video of the swing-up inverted pendulum system.
